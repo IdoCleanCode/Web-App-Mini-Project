@@ -1,0 +1,18 @@
+#app {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    border: solid 1px black;
+}
+
+#timer {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 15px;
+}
